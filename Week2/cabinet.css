@@ -1,0 +1,193 @@
+*{font-family: century gothic;
+margin:0px;
+padding:0px;
+}
+body{background-color:#F0FFF0 ;}
+a{color:black;}
+h2{color:red;}
+.header{background-color:#000000 ;
+height: 100px;}
+#emblem{transform: translate(200%,10%);
+    
+}
+#gov{transform: translate(70%,-160%);
+color:#ffffff}
+#flag{transform: translate(900%,0%);}
+#nehru{transform:translate(110%,0%);
+border-radius: 550px;}
+#jaha { transform:translate(200%,0%);
+    border: 1px solid black;
+    width:280px;
+}
+#jaha a {text-decoration: none;}
+#pt{transform:translate(35%,10%);
+padding-top:5px;}
+#line1{transform:translate(0%,2000%);}
+
+#sardar{transform: translate(240%,20%);
+border-radius: 600px;}
+#vallavh { transform:translate(130%,130%);
+    border: 1px solid black;
+    width:400px;
+}
+#vallavh a {text-decoration: none;}
+#patel{transform:translate(13%,150%);
+padding-top:5px;}
+#line2{transform:translate(0%,4000%);}
+
+#cj{transform: translate(30%,60%);
+border-radius:500px;}
+#rajo{transform: translate(2.5%,300%);
+border: 1px solid black;
+width:320px;}
+#gopal{transform: translate(0%,450%);}
+#rajo a{text-decoration: none;}
+
+
+#nath{transform: translate(320%,-75%);
+    border-radius:500px;}
+    #kailash{transform: translate(200%,-400%);
+    border: 1px solid black;
+    width:290px;}
+    #katju{transform: translate(35%,-540%);}
+   #kailash a{text-decoration: none;}
+    
+
+   #bal{transform: translate(600%,-210%);
+    border-radius:500px;}
+    #dev{transform: translate(590%,-1100%);
+    border: 1px solid black;
+    width:200px;}
+    #singh{transform: translate(78%,-1540%);}
+   #dev a{text-decoration: none;}
+   #line3{transform : translate(0%,-20000%);}
+    
+   #dr{transform: translate(30%,-150%);
+    border-radius:500px;}
+    #BR{transform: translate(2.5%,-750%);
+    border: 1px solid black;
+    width:290px;}
+    #dec6{transform: translate(3.5%,-1050%);}
+    #BR a{text-decoration: none;}
+
+    
+#raj{transform: translate(320%,-280%);
+    border-radius:500px;}
+    #jen{transform: translate(230%,-1450%);
+    border: 1px solid black;
+    width:260px;}
+    #par{transform: translate(36%,-2030%);}
+   #jen a{text-decoration: none;}
+    
+   #abul{transform: translate(600%,-410%);
+    border-radius:500px;}
+    #azad{transform: translate(410%,-2150%);
+    border: 1px solid black;
+    width:280px;}
+    #kalam{transform: translate(77%,-3020%);}
+   #azad a{text-decoration: none;}
+   #line4{transform:translate(0%,-42000%);}
+
+   #jag{transform: translate(30%,-370%);
+    border-radius:500px;}
+    #jivan{transform: translate(19%,-1920%);
+    border: 1px solid black;
+    width:220px;}
+    #ram{transform: translate(3.5%,-2700%);}
+    #jivan a{text-decoration: none;}
+
+    #gopala{transform: translate(320%,-500%);
+        border-radius:500px;}
+        #swami{transform: translate(120%, -2620%);
+        border: 1px solid black;
+        width:430px;}
+        #iyer{transform: translate(36%,-3700%);}
+       #swami a{text-decoration: none;}
+
+       #C{transform: translate(600%,-635%);
+        border-radius:500px;}
+        #D{transform: translate(510%,-3320%);
+        border: 1px solid black;
+        width:230px;}
+        #desh{transform: translate(78.5%,-4700%);}
+       #D a{text-decoration: none;}
+       #line5{transform:translate(0%,-66000%);}
+
+       #john{transform: translate(30%,-580%);
+        border-radius:500px;}
+        #mathai{transform: translate(25%,-3020%);
+        border: 1px solid black;
+        width:195px;}
+        #rai{transform: translate(0%,-4250%);}
+        #mathai a{text-decoration: none;}
+
+        #kaur{transform: translate(320%,-715%);
+            border-radius:500px;}
+            #am{transform: translate(380%, -3715%);
+            border: 1px solid black;
+            width:170px;}
+            #rit{transform: translate(42%,-5250%);}
+           #am a{text-decoration: none;}
+
+           #R{transform: translate(600%,-850%);
+            border-radius:500px;}
+            #shanmu{transform: translate(280%,-4420%);
+            border: 1px solid black;
+            width:390px;}
+            #chetty{transform: translate(78.5%,-6250%);}
+           #shanmu a{text-decoration: none;}
+           #line6{transform:translate(0%,-88000%);}
+
+           #rafi{transform: translate(30%,-780%);
+            border-radius:500px;}
+            #ahmed{transform: translate(10%,-4070%);
+            border: 1px solid black;
+            width:295px;}
+            #kidwai{transform: translate(1.5%,-5750%);}
+            #ahmed a{text-decoration: none;}
+
+            #sya{transform: translate(320%,-915%);
+                border-radius:500px;}
+                #sad{transform: translate(135%, -4780%);
+                border: 1px solid black;
+                width:405px;}
+                #muk{transform: translate(37%,-6750%);}
+               #sad a{text-decoration: none;}
+
+               #comm{transform: translate(600%,-1055%);
+                border-radius:500px;}
+                #erce{transform: translate(630%,-5490%);
+                border: 1px solid black;
+                width:190px;}
+                #bhabha{transform: translate(77%,-7750%);}
+               #erce a{text-decoration: none;}
+               #line7{transform:translate(0%,-110000%);}
+
+               #work{transform: translate(30%,-980%);
+                border-radius:500px;}
+                #mines{transform: translate(9%,-5070%);
+                border: 1px solid black;
+                width:340px;}
+                #power{transform: translate(0.5%,-7170%);}
+                #mines a{text-decoration: none;}
+    
+         
+    
+                #r{transform: translate(320%,-1120%);
+                    border-radius:500px;}
+                    #diwa{transform: translate(335%, -5780%);
+                    border: 1px solid black;
+                    width:190px;}
+                    #kar{transform: translate(37%,-8170%);}
+                   #diwa a{text-decoration: none;}
+    
+                   #kshi{transform: translate(600%,-1255%);
+                    border-radius:500px;}
+                    #tish{transform: translate(280%,-6500%);
+                    border: 1px solid black;
+                    width:380px;}
+                    #chand{transform: translate(70%,-9170%);}
+                   #tish a{text-decoration: none;}
+                 
+                   
+    
